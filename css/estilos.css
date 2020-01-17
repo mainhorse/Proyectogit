@@ -1,0 +1,172 @@
+/* caracteristicas del fondo*/
+body{
+	
+}
+
+/*encabezado*/
+header{
+     background-color: lightblue;
+     width: 1340px;
+     height: 150px;
+     float: right;
+     margin: 10px;
+     border-radius: 10px;
+	
+}
+
+/*caracteristicas de mi imagen*/
+#mercado{
+	border-radius: 10px;
+	width: 250px;
+	height: 120px;
+	line-height: 10px;
+	margin: 15px;
+	float: left;
+}
+
+#mercadodos{
+	border-radius: 10px;
+	width: 330px;
+	height: 120px;
+	line-height: 10px;
+	margin: 15px;
+	float: left;
+}
+form{
+	line-height: 30px;
+	float:left;
+}
+
+form label input {
+	margin:10px;
+	margin: 10px,
+}
+
+button{
+	border-radius: 15px;
+}
+
+#videoini{
+	width: 400px;
+	height: 120px;
+	margin: 10px;
+	line-height: 10px;
+	margin-left: 15px;
+	float: left;
+}
+/*barra de opciones*/
+nav {
+	
+
+}
+
+/* lista*/
+nav ul{
+	
+	list-style: none;
+	line-height: 15px;
+	margin-left: 170px;
+	padding: 0;
+}
+
+/*palabras en la lista */
+nav ul li{
+    width: 180px;
+    height: 50px;
+    background-color: lightgreen;
+    display:inline-block;
+    line-height: 40px;
+    font-size: 32;
+    font-family: Arial;
+    text-align: center;
+    border-radius: 10px;
+}
+main{
+	width: 1340px;
+	height: 400px;
+}
+
+aside#izquierda{
+	background-color: lightgreen;
+	width: 320px;
+	height: 400px;
+	float: left;
+	margin: 10px;
+	border-radius: 10px;
+}
+
+table{
+	border: 1px solid black;
+	border-collapse: collapse;
+	margin-left: 30px;
+}
+th{
+	color: blue;
+	border: 1px solid blue;
+	text-align: center;
+}
+
+td{
+      color: red;
+      border: 1px solid yellow;
+      text-align: center;
+}
+
+div{
+	background-color: #FFF098;
+	width: 635px;
+	height: 400px;
+	float: left;
+	margin: 10px;
+	border-radius: 10px;
+}
+#videocen{
+	width: 600px;
+	height: 200px;
+	float:left;
+	border-radius: 10px;
+	margin-left: 45px;
+	margin: 20px
+}
+
+
+section{
+	background-color: #FFF943;
+	width: 600px;
+	height: 100px;
+	border-radius: 10px;
+	margin: 10px;
+	float: left;
+	margin-left: 15px;
+
+}
+
+aside#derecha{
+	background-color: lightgreen;
+	width: 320px;
+	height: 400px;
+	float: right;
+	margin: 10px;
+	border-radius: 10px;
+}
+
+h4{
+	text-align: center;
+	color: black;
+	font-family: arial;
+	font-size: 24;
+}
+
+footer{
+	background-color: lightblue;
+	width: 350px;
+	height: 50px;
+	border-radius: 10px;
+	float: right;
+	border: 10px;
+}
+
+footer ul{
+	list-style: none;
+	line-height: 10px;
+}
